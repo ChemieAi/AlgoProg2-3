@@ -1,0 +1,5 @@
+Veli Tuz,Ankara,0 533 1111111,0 312 1111111
+Ali Can Kara,Antalya,0 554 2222222,0 543 3333333,0 246 1111111
+Canan Demir,Izmir,0 232 4444444
+Burak Kizilay,Izmir,0 538 0120805
+Riza Ozdemir,Istanbul, 0 242 1241234, 0 532 1234321
